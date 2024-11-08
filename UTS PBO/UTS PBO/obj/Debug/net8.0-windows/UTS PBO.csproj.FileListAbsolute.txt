@@ -1,0 +1,22 @@
+C:\Users\mikoi\source\repos\UTS PBO\UTS PBO\obj\Debug\net8.0-windows\UTS PBO.csproj.AssemblyReference.cache
+C:\Users\mikoi\source\repos\UTS PBO\UTS PBO\obj\Debug\net8.0-windows\UTS PBO.csproj.GenerateResource.cache
+C:\Users\mikoi\source\repos\UTS PBO\UTS PBO\obj\Debug\net8.0-windows\UTS PBO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikoi\source\repos\UTS PBO\UTS PBO\obj\Debug\net8.0-windows\UTS PBO.AssemblyInfoInputs.cache
+C:\Users\mikoi\source\repos\UTS PBO\UTS PBO\obj\Debug\net8.0-windows\UTS PBO.AssemblyInfo.cs
+C:\Users\mikoi\source\repos\UTS PBO\UTS PBO\obj\Debug\net8.0-windows\UTS PBO.csproj.CoreCompileInputs.cache
+C:\Users\mikoi\source\repos\UTS PBO\UTS PBO\bin\Debug\net8.0-windows\UTS PBO.exe
+C:\Users\mikoi\source\repos\UTS PBO\UTS PBO\bin\Debug\net8.0-windows\UTS PBO.deps.json
+C:\Users\mikoi\source\repos\UTS PBO\UTS PBO\bin\Debug\net8.0-windows\UTS PBO.runtimeconfig.json
+C:\Users\mikoi\source\repos\UTS PBO\UTS PBO\bin\Debug\net8.0-windows\UTS PBO.dll
+C:\Users\mikoi\source\repos\UTS PBO\UTS PBO\bin\Debug\net8.0-windows\UTS PBO.pdb
+C:\Users\mikoi\source\repos\UTS PBO\UTS PBO\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mikoi\source\repos\UTS PBO\UTS PBO\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mikoi\source\repos\UTS PBO\UTS PBO\bin\Debug\net8.0-windows\Npgsql.dll
+C:\Users\mikoi\source\repos\UTS PBO\UTS PBO\obj\Debug\net8.0-windows\UTS PBO.csproj.Up2Date
+C:\Users\mikoi\source\repos\UTS PBO\UTS PBO\obj\Debug\net8.0-windows\UTS PBO.dll
+C:\Users\mikoi\source\repos\UTS PBO\UTS PBO\obj\Debug\net8.0-windows\refint\UTS PBO.dll
+C:\Users\mikoi\source\repos\UTS PBO\UTS PBO\obj\Debug\net8.0-windows\UTS PBO.pdb
+C:\Users\mikoi\source\repos\UTS PBO\UTS PBO\obj\Debug\net8.0-windows\UTS PBO.genruntimeconfig.cache
+C:\Users\mikoi\source\repos\UTS PBO\UTS PBO\obj\Debug\net8.0-windows\ref\UTS PBO.dll
+C:\Users\mikoi\source\repos\UTS PBO\UTS PBO\obj\Debug\net8.0-windows\UTS_PBO.Admin.Form1.resources
+C:\Users\mikoi\source\repos\UTS PBO\UTS PBO\obj\Debug\net8.0-windows\UTS_PBO.View_Welcome.Form1.resources
